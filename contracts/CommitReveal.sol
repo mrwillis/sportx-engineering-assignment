@@ -4,7 +4,8 @@ pragma solidity 0.7.5;
 
 
 contract CommitReveal {
-    // The two choices for your vote
+    // The two choices for your vote. Note that these are just symbolic and for display purposes only. 
+    // In practice, the user 
     string public choice1;
     string public choice2;
     
