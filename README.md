@@ -80,6 +80,6 @@ We're interested in your coding style, your familarity with developer tooling fo
 
 Fork this repo, and _make your new repo private_. Write your code in a sub-folder in this repo, and edit this `README` to include instructions on how to use your script. Feel free to change anything in the repo except for the `CommitReveal.sol` contract.
 
-Send `andrew@nextgenbt.com` the _private_ GitHub link when you're done. Additionally, please give `@mrwillis` access.
+Send `julian@nextgenbt.com` the _private_ GitHub link when you're done. Additionally, please give `@mrwillis` access.
 
 Good luck!
