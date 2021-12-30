@@ -1,6 +1,6 @@
 # Full-stack Web3 Engineering Assignment
 
-Thank you for your interest in joining the SportX engineering team!
+Thank you for your interest in joining the SX engineering team!
 
 This document is just a quick test to see where your coding and problem solving skills are with something related to dApp development. It’s designed to be straightforward and not take too much of your time.
 
